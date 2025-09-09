@@ -1,6 +1,6 @@
 # Kattis IMC Challenge
 
-![IMC Challenge](https://www.huawei.com/minisite/imc-challenge/en/img/banner.jpg)
+![IMC Challenge](imc-logo.png)
 
 Repository of my code for the [Huawei IMC Challenge](https://www.huawei.com/minisite/imc-challenge/en/).
 The challenge invites developers to analyse signals and deliver efficient
