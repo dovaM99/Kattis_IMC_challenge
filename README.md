@@ -62,12 +62,12 @@ solutions, exploratory notebooks, and figure templates to document the approach.
 
 ```mermaid
 flowchart LR
-    A[PAM4 symbols<br/>[-3,-1,1,3]] --> B[TX DSP<br/>FFE (pre,main,post)]
+    A["PAM4 symbols [-3,-1,1,3]"] --> B["TX DSP (FFE: pre, main, post)"]
     B --> C[DAC]
-    C --> D[Analog Channel<br/>IL, ISI, NL, Noise]
+    C --> D["Analog Channel (IL, ISI, Nonlinearity, Noise)"]
     D --> E[ADC]
-    E --> F[RX DSP<br/>Equalizer + Slicer]
-    F --> G[Recovered Symbols]
+    E --> F["RX DSP (Equalizer + Slicer)"]
+    F --> G["Recovered Symbols"]
 ```
 
 ---
